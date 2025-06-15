@@ -1,0 +1,54 @@
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache
+
+# Generated files
+*.mp4
+!bgvideo.mp4
+!bgvideo2.mp4
+!video.mp4
+!video2.mp4
+*.wav
+!0.wav
+multi.mp4
+tmp/
+!captions/
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+.DS_Store
+.cache/
+*.tmp
+*.bak

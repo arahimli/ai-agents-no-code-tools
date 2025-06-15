@@ -1,0 +1,7 @@
+__pycache__
+.hypothesis
+.venv
+media
+tmp
+captions
+.DS_Store

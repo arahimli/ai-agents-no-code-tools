@@ -1,0 +1,9 @@
+uuid
+numpy
+kokoro
+soundfile
+fastapi[standard]
+loguru
+chatterbox-tts
+faster_whisper
+torchaudio
