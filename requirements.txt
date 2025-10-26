@@ -1,9 +1,15 @@
-uuid
-numpy
-kokoro
+# Core ML packages (compatible with torch 2.6.0)
+torch==2.6.0
+torchaudio==2.6.0
+
+# Audio and TTS packages
+kokoro>=0.9.4
 soundfile
-fastapi[standard]
-loguru
+faster-whisper
 chatterbox-tts
-faster_whisper
-torchaudio
+
+# Web framework
+fastapi[standard]
+
+# Utilities
+loguru
