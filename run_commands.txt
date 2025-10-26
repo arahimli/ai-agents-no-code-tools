@@ -1,0 +1,2 @@
+docker build --no-cache -t my-ai-agents .
+docker run -p 8000:8000 my-ai-agents
